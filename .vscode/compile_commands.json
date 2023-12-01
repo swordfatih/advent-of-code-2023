@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\fatih\\Documents\\Git\\advent-of-code-2023",
+  "arguments": ["C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe", "-c", "-std=c++23", "-fexceptions", "-o", "build\\.objs\\main\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]

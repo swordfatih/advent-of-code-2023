@@ -9,6 +9,7 @@
     "*.js.liquid": "liquid-javascript",
     "*.css.liquid": "liquid-css",
     "*.scss.liquid": "liquid-scss",
+    "*.tpl": "php",
     "*.jaxn": "jsonc",
     "*.mpp": "cpp",
     "atomic": "cpp",
@@ -76,6 +77,8 @@
     "xlocbuf": "cpp",
     "xlocmes": "cpp",
     "xlocmon": "cpp",
-    "xloctime": "cpp"
+    "xloctime": "cpp",
+    "map": "cpp",
+    "xtree": "cpp"
 },
 }

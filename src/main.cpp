@@ -2,7 +2,7 @@
 
 int main()
 {
-    day_3();
+    day_4();
 
     return 0;
 }

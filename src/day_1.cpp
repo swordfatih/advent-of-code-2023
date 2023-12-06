@@ -1,5 +1,7 @@
 #include "days.hpp"
 
+#include <algorithm>
+
 void day_1()
 {
     auto tokens = split(read_file("inputs/input_1.txt"), "\n");

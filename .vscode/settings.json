@@ -9,9 +9,9 @@
     "*.js.liquid": "liquid-javascript",
     "*.css.liquid": "liquid-css",
     "*.scss.liquid": "liquid-scss",
-    "*.tpl": "php",
     "*.jaxn": "jsonc",
     "*.mpp": "cpp",
+    "*.tpl": "php",
     "atomic": "cpp",
     "bit": "cpp",
     "cctype": "cpp",
@@ -81,6 +81,7 @@
     "map": "cpp",
     "xtree": "cpp",
     "numeric": "cpp",
-    "set": "cpp"
+    "set": "cpp",
+    "string_view": "cpp"
 },
 }

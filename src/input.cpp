@@ -24,3 +24,23 @@ std::vector<std::string> split(const std::string& string, const std::string_view
 
     return tokens;
 }
+
+int64_t read_int(std::stringstream& stream)
+{
+    std::string buf;
+    stream >> buf;
+    return std::stoi(buf);
+}
+
+std::string read_string(std::stringstream& stream)
+{
+    std::string buf;
+    stream >> buf;
+    return buf;
+}
+
+void replace(std::stringstream& stream, const std::string& string)
+{
+    stream.clear();
+    stream.str(string);
+}
